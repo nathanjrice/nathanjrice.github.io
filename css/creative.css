@@ -277,6 +277,16 @@ header .header-content .header-content-inner p {
     font-size: 22px;
   }
 }
+
+.img-responsive{
+  
+    width:  auto;
+    height: 300px;
+}
+
+
+
+
 .call-to-action h2 {
   margin: 0 auto 20px;
 }
